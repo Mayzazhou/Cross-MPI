@@ -38,7 +38,7 @@ with all losses. As examples in `./train_scripts/` where these three train steps
 The main testing script for testing the models is `test.py`, and the script for testing multi-frame 
 optical zoom cross-scale data pairs with fixed two camera views is `test_giga.py`.
 
-example command lines for `test.py` is in `./scripts/test_testset.sh` and for `test_giga.py` is in 
+Example command lines for `test.py` are in `./scripts/test_testset.sh` and for `test_giga.py` is in 
 `./scripts/real_stereo_pairs_test/giga_four_people.sh`
 
 
@@ -47,7 +47,7 @@ example command lines for `test.py` is in `./scripts/test_testset.sh` and for `t
 `evaluate.py` contains sample code for evaluating the super-resolution performance
 based on the SSIM and PSNR metrics. 
 
-example command lines for `evaluate.py` is in `./scripts/evaluate.sh`.
+Example command lines for `evaluate.py` are in `./scripts/evaluate.sh`.
 
 ## Test on a cross-scale stereo image pair
 
@@ -55,7 +55,7 @@ To test a pair of cross-scale stereo images, please first get the calibration re
 (intrinsics and extrinsics of these two views) as long as the depth ranges, then use the 
 `crossmpi_from_images.py`.
 
-example command lines for `evaluate.py` is in `./scripts/real_stereo_pairs_test/giga_setup.sh`.
+Example command lines for `evaluate.py` are in `./scripts/real_stereo_pairs_test/giga_setup.sh`.
 
 
 ## Our pre-trained models
