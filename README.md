@@ -8,7 +8,7 @@ CVPR 2021
 
 [Project Page](http://www.liuyebin.com/crossMPI/crossMPI.html)
 
-**Please note that**, this code is built based on [Stereo Magnification](https://github.com/google/stereo-magnification) (Siggraph 18)
+**Please note that**, this code is built based on [Stereo Magnification](https://github.com/google/stereo-magnification) (SIGGRAPH' 18)
 
 
 ## Training the Cross-MPI model
