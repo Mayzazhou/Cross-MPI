@@ -98,7 +98,7 @@ with data structure as below:
 
 
 
-If you find this project useful, please cite:
+If you find our work **Cross-MPI** useful, please cite:
 ```
 @inproceedings{zhou2021cross,
   title={Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images},
