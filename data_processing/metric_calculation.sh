@@ -1,0 +1,1 @@
+python metric_calculation.py --data_split_path '/media/Data1/zhouyuemei/fulldata_ARefSR_results/AttentionRefSR_pretrain_hr_syn_guided_nnup_denseASPP_lowres_image_psv_plus_fuse_net/test_shuffle2_8x_all_add_bicubic_iter248000'
